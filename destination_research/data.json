@@ -1,0 +1,1094 @@
+[
+    {
+        "name": "HIGHLIGHTS OF EUROPE",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/switzerland/highlights-of-europe",
+        "starting_price": 2738,
+        "starting_price_per_night": null,
+        "countries": [
+            "Switzerland",
+            "Germany",
+            "France",
+            "Netherlands",
+            "Belgium"
+        ],
+        "cities": null,
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "13 DAYS LAPLAND NORTHERN LIGHTS WITH LOFOTEN ISLANDS",
+        "nights": 10,
+        "url": "https://www.chanbrothers.com/package-tours/europe/finland/lapland-northern-lights-with-lofoten-islands",
+        "starting_price": 7688,
+        "starting_price_per_night": 768.8,
+        "countries": [
+            "Finland",
+            "Norway",
+            "Sweden"
+        ],
+        "cities": [
+            "Helsinki",
+            "Tromso",
+            "Harstad",
+            "Lofoten Islands",
+            "Narvik",
+            "Kiruna",
+            "Rovaniemi"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03"
+        ]
+    },
+    {
+        "name": "11 DAYS ARCTIC CIRCLE ADVENTURE WITH KING CRAB SAFARI",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/finland/arctic-circle-adventure-with-king-crab-safari",
+        "starting_price": 6988,
+        "starting_price_per_night": 873.5,
+        "countries": [
+            "Finland",
+            "Norway"
+        ],
+        "cities": [
+            "Helsinki",
+            "Ivalo",
+            "Kirkenes",
+            "Inari",
+            "Saariselka",
+            "Levi",
+            "Rovaniemi"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03"
+        ]
+    },
+    {
+        "name": "ALLURING AUSTRIA WITH BERLIN, PRAGUE AND BUDAPEST",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/germany/alluring-austria-with-berlin-prague-and-budapest",
+        "starting_price": 3738,
+        "starting_price_per_night": null,
+        "countries": [
+            "Germany",
+            "Hungary",
+            "Czech Republic",
+            "Poland",
+            "Austria",
+            "Slovakia"
+        ],
+        "cities": null,
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "12 DAYS CROATIA AND SLOVENIA DISCOVERY",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/croatia/croatia-and-slovenia-discovery",
+        "starting_price": 3038,
+        "starting_price_per_night": 337.56,
+        "countries": [
+            "Croatia",
+            "Slovenia",
+            "Bosnia And Herzegovina",
+            "Montenegro"
+        ],
+        "cities": [
+            "Zagreb",
+            "Ljubljana",
+            "Sarajevo",
+            "Mostar",
+            "Dubrovnik",
+            "Kotor",
+            "Split"
+        ],
+        "months": [
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "10 DAYS CLASSIC TOUR OF TURKIYE",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/turkiye/classic-tour-of-turkiye-0",
+        "starting_price": 2288,
+        "starting_price_per_night": 326.86,
+        "countries": [
+            "Turkiye"
+        ],
+        "cities": [
+            "Istanbul",
+            "Canakkale",
+            "Bergama",
+            "Kusadasi",
+            "Selcuk",
+            "Pamukkale",
+            "Konya",
+            "Cappadocia",
+            "Ankara",
+            "Bolu"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "CLASSIC SPAIN AND PORTUGAL",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/spain/classic-spain-and-portugal-0",
+        "starting_price": 4288,
+        "starting_price_per_night": null,
+        "countries": [
+            "Spain",
+            "Portugal"
+        ],
+        "cities": null,
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "10 DAYS ICELAND NORTHERN LIGHTS FANTASY",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/iceland/iceland-northern-lights-fantasy",
+        "starting_price": 6388,
+        "starting_price_per_night": 912.57,
+        "countries": [
+            "Iceland"
+        ],
+        "cities": [
+            "Reykjavik",
+            "Borgarnes",
+            "Golden Circle",
+            "Selfoss",
+            "South Coast",
+            "Jokulsarlon",
+            "Reykjanes"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03"
+        ]
+    },
+    {
+        "name": "10 DAYS SWITZERLAND ALPINE TRAIN TOUR",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/switzerland/switzerland-alpine-train-tour",
+        "starting_price": 5388,
+        "starting_price_per_night": 769.71,
+        "countries": [
+            "Switzerland",
+            "Germany"
+        ],
+        "cities": [
+            "Bern",
+            "Vevey",
+            "Zermatt",
+            "Lucerne"
+        ],
+        "months": [
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "10 DAYS NORWAY NORTHERN LIGHTS EXPLORER",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/norway/norway-northern-lights-explorer",
+        "starting_price": 5988,
+        "starting_price_per_night": 855.43,
+        "countries": [
+            "Norway"
+        ],
+        "cities": [
+            "Tromso",
+            " Senja",
+            "Bardu",
+            "Svolvaer",
+            "Lofoten Islands",
+            "Harstad"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03"
+        ]
+    },
+    {
+        "name": "13 DAYS SPECTACULAR SCANDINAVIA AND FJORD CRUISE",
+        "nights": 10,
+        "url": "https://www.chanbrothers.com/package-tours/europe/sweden/spectacular-scandinavia-and-fjord-cruise",
+        "starting_price": 4988,
+        "starting_price_per_night": 498.8,
+        "countries": [
+            "Sweden",
+            "Norway",
+            "Denmark"
+        ],
+        "cities": [
+            "Stockholm",
+            "Karlstad",
+            "Oslo",
+            "Hamar",
+            "Andalsnes",
+            "Geiranger",
+            "Sognefjord",
+            "Bergen",
+            "Hardangerfjord",
+            "Al",
+            "Copenhagen"
+        ],
+        "months": [
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "BEST OF ITALY, SWITZERLAND AND PARIS",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/italy/best-of-italy-switzerland-and-paris",
+        "starting_price": 4588,
+        "starting_price_per_night": null,
+        "countries": [
+            "Italy",
+            "Switzerland",
+            "France",
+            "Vatican City"
+        ],
+        "cities": null,
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "GEMS OF SWITZERLAND",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/switzerland/gems-of-switzerland",
+        "starting_price": 4138,
+        "starting_price_per_night": null,
+        "countries": [
+            "Switzerland"
+        ],
+        "cities": null,
+        "months": [
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "12 DAYS HIGHLIGHTS OF ENGLAND AND SCOTLAND",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/united-kingdom/highlights-of-england-and-scotland",
+        "starting_price": 4338,
+        "starting_price_per_night": 482.0,
+        "countries": [
+            "United Kingdom"
+        ],
+        "cities": [
+            "London",
+            "Edinburgh",
+            "Liverpool",
+            "Stratford-Upon-Avon",
+            "Bath",
+            "Cambridge",
+            "York"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "10 DAYS WONDERS OF AUSTRIA AND SWITZERLAND",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/austria/wonders-of-austria-and-switzerland",
+        "starting_price": 3388,
+        "starting_price_per_night": 484.0,
+        "countries": [
+            "Austria",
+            "Switzerland",
+            "Liechtenstein"
+        ],
+        "cities": [
+            "Vienna",
+            "Salzburg",
+            "Innsbruck",
+            "Lucerne",
+            "Bern",
+            "Schaffhausen"
+        ],
+        "months": [
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "12 DAYS EXQUISITE ENGLAND, SCOTLAND AND IRELAND",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/united-kingdom/exquisite-england-scotland-and-ireland",
+        "starting_price": 5088,
+        "starting_price_per_night": 565.33,
+        "countries": [
+            "United Kingdom",
+            "Ireland"
+        ],
+        "cities": [
+            "Edinburgh",
+            "Belfast",
+            "Antrim",
+            "Dublin",
+            "Liverpool",
+            "Manchester",
+            "Stratford-Upon-Avon",
+            "Oxford",
+            "Bath",
+            "London",
+            "Wiltshire"
+        ],
+        "months": [
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "11 DAYS HIGHLIGHTS OF GREECE",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/greece/highlights-of-greece",
+        "starting_price": 4638,
+        "starting_price_per_night": 515.33,
+        "countries": [
+            "Greece"
+        ],
+        "cities": [
+            "Athens",
+            "Delphi",
+            "Kalambaka",
+            "Mykonos",
+            "Santorini"
+        ],
+        "months": [
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "12 DAYS WONDERS OF ICELAND",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/iceland/wonders-of-iceland",
+        "starting_price": 9188,
+        "starting_price_per_night": 1020.89,
+        "countries": [
+            "Iceland"
+        ],
+        "cities": [
+            "Reykjavik",
+            "Golden Circle",
+            "Selfoss",
+            "South Coast",
+            "Jokulsarlon",
+            "East Iceland",
+            "Lake Myvatn",
+            "North Iceland",
+            "Husavik",
+            "Akureyri",
+            "Grundarfjordur",
+            "West Iceland",
+            "Blue Lagoon"
+        ],
+        "months": [
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09"
+        ]
+    },
+    {
+        "name": "12 DAYS ITALY ROMANCE",
+        "nights": 10,
+        "url": "https://www.chanbrothers.com/package-tours/europe/italy/italy-romance",
+        "starting_price": 4788,
+        "starting_price_per_night": 478.8,
+        "countries": [
+            "Italy"
+        ],
+        "cities": [
+            "Rome",
+            "Pisa",
+            "Florence",
+            "Venice",
+            "Verona",
+            "Milan"
+        ],
+        "months": [
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "SWITZERLAND AND PARIS DISCOVERY",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/switzerland/switzerland-and-paris-discovery",
+        "starting_price": 3638,
+        "starting_price_per_night": null,
+        "countries": [
+            "Switzerland",
+            "France"
+        ],
+        "cities": null,
+        "months": [
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "BEST OF ITALY, SWITZERLAND, PARIS AND AMSTERDAM",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/italy/best-of-italy-switzerland-paris-and-amsterdam",
+        "starting_price": 4888,
+        "starting_price_per_night": null,
+        "countries": [
+            "Italy",
+            "Switzerland",
+            "France",
+            "Netherlands",
+            "Belgium"
+        ],
+        "cities": null,
+        "months": [
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "12 DAYS Egypt & Hurghada Coastal Bliss",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/africa/egypt/egypt-hurghada-coastal-bliss",
+        "starting_price": 5138,
+        "starting_price_per_night": 570.89,
+        "countries": [
+            "Egypt",
+            "Turkiye"
+        ],
+        "cities": [
+            "Cairo",
+            "Aswan",
+            "Kom Ombo",
+            "Edfu",
+            "Luxor",
+            "Hurghada"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05"
+        ]
+    },
+    {
+        "name": "11 DAYS THE HEART OF TURKIYE",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/turkiye/the-heart-of-turkiye",
+        "starting_price": 2238,
+        "starting_price_per_night": 279.75,
+        "countries": [
+            "Turkiye"
+        ],
+        "cities": null,
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "10 DAYS BEAUTY OF HOLLAND",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/netherlands/beauty-of-holland",
+        "starting_price": 3438,
+        "starting_price_per_night": 491.14,
+        "countries": [
+            "Netherlands"
+        ],
+        "cities": [
+            "Amsterdam",
+            "Aalsmeer",
+            "Roermond",
+            "Maastricht",
+            "Rotterdam",
+            "The Hague"
+        ],
+        "months": [
+            "2027-03",
+            "2027-04",
+            "2027-05"
+        ]
+    },
+    {
+        "name": "12 DAYS CHRISTMAS MARKETS OF GERMANY, AUSTRIA AND SWITZERLAND",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/germany/christmas-markets-of-germany-austria-and-switzerland",
+        "starting_price": 4238,
+        "starting_price_per_night": 470.89,
+        "countries": [
+            "Germany",
+            "Austria",
+            "Switzerland",
+            "France"
+        ],
+        "cities": null,
+        "months": [
+            "2026-11",
+            "2026-12"
+        ]
+    },
+    {
+        "name": "11 DAYS TREASURES OF AMSTERDAM, PARIS AND LONDON",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/united-kingdom/treasures-of-amsterdam-paris-and-london",
+        "starting_price": 3988,
+        "starting_price_per_night": 498.5,
+        "countries": [
+            "United Kingdom",
+            "Netherlands",
+            "Belgium",
+            "France"
+        ],
+        "cities": [
+            "Amsterdam",
+            "Brussels",
+            "Paris",
+            "London"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "10 DAYS GERMANY AND HOLLAND DELIGHTS",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/germany/germany-and-holland-delights",
+        "starting_price": 4288,
+        "starting_price_per_night": 612.57,
+        "countries": [
+            "Germany",
+            "Netherlands"
+        ],
+        "cities": [
+            "Munich",
+            "Rothenburg Ob Der Tauber",
+            "Heidelberg",
+            "Cologne",
+            "Rotterdam",
+            "The Hague",
+            "Amsterdam"
+        ],
+        "months": [
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05"
+        ]
+    },
+    {
+        "name": "10 DAYS SWITZERLAND SUPERSAVER",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/switzerland/switzerland-supersaver",
+        "starting_price": 3788,
+        "starting_price_per_night": 541.14,
+        "countries": [
+            "Switzerland",
+            "Germany"
+        ],
+        "cities": null,
+        "months": [
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "BEST OF ITALY, SWITZERLAND AND PARIS SUPERSAVER",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/italy/best-of-italy-switzerland-and-paris-supersaver",
+        "starting_price": 5188,
+        "starting_price_per_night": null,
+        "countries": [
+            "Italy",
+            "Switzerland",
+            "France",
+            "Austria",
+            "Liechtenstein"
+        ],
+        "cities": null,
+        "months": [
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "10 DAYS DISCOVER THE CAUCASUS",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/azerbaijan/discover-the-caucasus-0",
+        "starting_price": 3588,
+        "starting_price_per_night": 448.5,
+        "countries": [
+            "Azerbaijan",
+            "Armenia",
+            "Georgia"
+        ],
+        "cities": null,
+        "months": [
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06",
+            "2027-07",
+            "2027-08",
+            "2027-09",
+            "2027-10"
+        ]
+    },
+    {
+        "name": "13 DAYS CLASSIC SPAIN AND PORTUGAL",
+        "nights": 10,
+        "url": "https://www.chanbrothers.com/package-tours/europe/spain/classic-spain-and-portugal",
+        "starting_price": 5938,
+        "starting_price_per_night": 593.8,
+        "countries": [
+            "Spain",
+            "Portugal"
+        ],
+        "cities": [
+            "Barcelona",
+            "Valencia",
+            "Granada",
+            "Cordoba",
+            "Seville",
+            "Lisbon",
+            "Salamanca",
+            "Segovia",
+            "Madrid",
+            "Fatima",
+            "Zaragoza",
+            "Porto"
+        ],
+        "months": [
+            "2026-12"
+        ]
+    },
+    {
+        "name": "11 DAYS EASTERN EUROPE SUPERSAVER",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/austria/eastern-europe-supersaver",
+        "starting_price": 3388,
+        "starting_price_per_night": 423.5,
+        "countries": [
+            "Austria",
+            "Slovakia",
+            "Hungary",
+            "Germany",
+            "Czech Republic"
+        ],
+        "cities": null,
+        "months": [
+            "2026-12"
+        ]
+    },
+    {
+        "name": "13 DAYS CROATIA AND SLOVENIA DISCOVERY",
+        "nights": 10,
+        "url": "https://www.chanbrothers.com/package-tours/europe/croatia/croatia-and-slovenia-discovery-0",
+        "starting_price": 2988,
+        "starting_price_per_night": 298.8,
+        "countries": [
+            "Croatia",
+            "Slovenia",
+            "Bosnia And Herzegovina",
+            "Montenegro"
+        ],
+        "cities": [
+            "Zagreb",
+            "Ljubljana",
+            "Lake Bled",
+            "Opatija",
+            "Zadar",
+            "Sarajevo",
+            "Mostar",
+            "Kotor",
+            "Dubrovnik",
+            "Split"
+        ],
+        "months": [
+            "2026-11",
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03"
+        ]
+    },
+    {
+        "name": "SWITZERLAND AND PARIS SUPERSAVER",
+        "nights": null,
+        "url": "https://www.chanbrothers.com/package-tours/europe/switzerland/switzerland-and-paris-supersaver",
+        "starting_price": 4088,
+        "starting_price_per_night": null,
+        "countries": [
+            "Switzerland",
+            "France"
+        ],
+        "cities": null,
+        "months": [
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "10 DAYS GERMANY, FRANCE & SWITZERLAND SUPERSAVER",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/germany/germany-france-switzerland-supersaver",
+        "starting_price": 3188,
+        "starting_price_per_night": 398.5,
+        "countries": [
+            "Germany",
+            "France",
+            "Switzerland"
+        ],
+        "cities": null,
+        "months": [
+            "2026-12",
+            "2027-01",
+            "2027-02",
+            "2027-03",
+            "2027-04",
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "10 DAYS ROMANTIC HOLLAND TULIP RIVER CRUISE AND BELGIUM",
+        "nights": 7,
+        "url": "https://www.chanbrothers.com/package-tours/europe/netherlands/romantic-holland-tulip-river-cruise-and-belgium-0",
+        "starting_price": 5388,
+        "starting_price_per_night": 769.71,
+        "countries": [
+            "Netherlands",
+            "Belgium"
+        ],
+        "cities": null,
+        "months": [
+            "2027-05"
+        ]
+    },
+    {
+        "name": "12 DAYS Wintry Turkiye",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/turkiye/wintry-turkiye",
+        "starting_price": 2888,
+        "starting_price_per_night": 320.89,
+        "countries": [
+            "Turkiye"
+        ],
+        "cities": [
+            "Istanbul",
+            "Bursa",
+            "Selcuk",
+            "Kusadasi",
+            "Pamukkale",
+            "Konya",
+            "Cappadocia",
+            "Bolu"
+        ],
+        "months": [
+            "2027-02"
+        ]
+    },
+    {
+        "name": "11 DAYS TurkIye Supersaver",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/turkiye/turkiye-supersaver",
+        "starting_price": 1738,
+        "starting_price_per_night": 193.11,
+        "countries": [
+            "Turkiye"
+        ],
+        "cities": [
+            "Istanbul",
+            "Kusadasi",
+            "Selcuk",
+            "Pamukkale",
+            "Konya",
+            "Cappadocia",
+            "Eskisehir"
+        ],
+        "months": [
+            "2027-03",
+            "2027-04",
+            "2027-05"
+        ]
+    },
+    {
+        "name": "12 DAYS Turkiye Almond Fest & Love in Bloom",
+        "nights": 10,
+        "url": "https://www.chanbrothers.com/package-tours/europe/turkiye/turkiye-almond-fest-love-in-bloom",
+        "starting_price": 3088,
+        "starting_price_per_night": 308.8,
+        "countries": [
+            "Turkiye"
+        ],
+        "cities": [
+            "Istanbul",
+            "Dalaman",
+            "Datca",
+            "Akyaka",
+            "Pamukkale",
+            "Cappadocia",
+            "Bolu"
+        ],
+        "months": [
+            "2027-02"
+        ]
+    },
+    {
+        "name": "11 DAYS FAROE ISLANDS & NORDIC JEWELS",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/faroe-islands/faroe-islands-nordic-jewels",
+        "starting_price": 6888,
+        "starting_price_per_night": 861.0,
+        "countries": [
+            "Faroe Islands",
+            "Denmark",
+            "Norway"
+        ],
+        "cities": null,
+        "months": [
+            "2027-06"
+        ]
+    },
+    {
+        "name": "12 DAYS SOUTHERN ITALY, SICILY AND MALTA",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/italy/southern-italy-sicily-and-malta",
+        "starting_price": 5888,
+        "starting_price_per_night": 654.22,
+        "countries": [
+            "Italy",
+            "Malta"
+        ],
+        "cities": null,
+        "months": [
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "11 DAYS Charms of Baltic States with Istanbul",
+        "nights": 8,
+        "url": "https://www.chanbrothers.com/package-tours/europe/lithuania/charms-of-baltic-states-with-istanbul",
+        "starting_price": 4138,
+        "starting_price_per_night": 517.25,
+        "countries": [
+            "Lithuania",
+            "Latvia",
+            "Estonia",
+            "Turkiye"
+        ],
+        "cities": [
+            "Vilnius",
+            "Riga",
+            "Tallinn",
+            "Istanbul",
+            "Sigulda"
+        ],
+        "months": [
+            "2027-05",
+            "2027-06"
+        ]
+    },
+    {
+        "name": "14 DAYS EXPLORING THE BLACK SEA CROSSROADS OF TURKIYE & GEORGIA",
+        "nights": 11,
+        "url": "https://www.chanbrothers.com/package-tours/europe/turkiye/exploring-the-black-sea-crossroads-of-turkiye-georgia",
+        "starting_price": 5288,
+        "starting_price_per_night": 480.73,
+        "countries": [
+            "Turkiye",
+            "Georgia"
+        ],
+        "cities": [
+            "Istanbul",
+            "Amasya",
+            "Samsun",
+            "Ordu",
+            "Trabzon",
+            "Rize",
+            "Batumi",
+            "Tbilisi"
+        ],
+        "months": [
+            "2027-05"
+        ]
+    },
+    {
+        "name": "11 DAYS EXPLORING THE BLACK SEA CROSSROADS OF TURKIYE",
+        "nights": 9,
+        "url": "https://www.chanbrothers.com/package-tours/europe/turkiye/exploring-the-black-sea-crossroads-of-turkiye-0",
+        "starting_price": 3288,
+        "starting_price_per_night": 365.33,
+        "countries": [
+            "Turkiye"
+        ],
+        "cities": [
+            "Istanbul",
+            "Amasya",
+            "Samsun",
+            "Ordu",
+            "Trabzon",
+            "Rize"
+        ],
+        "months": [
+            "2027-05"
+        ]
+    }
+]
