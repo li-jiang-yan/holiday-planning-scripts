@@ -1,6 +1,12 @@
 import json
 from datetime import datetime
 
+from openai import OpenAI
+from pydantic import BaseModel
+
+# Initialize the client (automatically reads OPENAI_API_KEY from environment)
+client = OpenAI()
+
 
 def clean_tour_dict(tour_dict: dict) -> dict:
     name = tour_dict['name']
@@ -45,6 +51,13 @@ def clean_tour_dict(tour_dict: dict) -> dict:
         else:
             month += 1
 
+    # Attractions
+    if 'itinerary' in tour_dict:
+        itinerary_html = tour_dict['itinerary']
+        attractions = extract_attractions(itinerary_html, countries)
+    else:
+        attractions = None
+
     return {
         'name': name,
         'nights': nights,
@@ -52,8 +65,104 @@ def clean_tour_dict(tour_dict: dict) -> dict:
         'starting_price': starting_price,
         'starting_price_per_night': starting_price_per_night,
         'countries': countries,
-        'cities': cities,
+        'cities': classify_cities(cities, countries),
         'months': months,
+        'attractions': attractions,
+    }
+
+
+def classify_cities(cities: list, countries: list) -> dict:
+    if cities is None:
+        return
+
+    if len(countries) == 1:
+        return {countries[0]: sorted(list(set(cities)))}
+
+    class CityMatch(BaseModel):
+        city: str
+        country: str
+
+    class Results(BaseModel):
+        matches: list[CityMatch]
+
+    response = client.responses.parse(
+        model='gpt-6-luna',
+        input=[
+            {
+                'role': 'system',
+                'content': (
+                    'Match each city to a country from the supplied list only. '
+                    'Return one match for every input city, in order.'
+                ),
+            },
+            {
+                'role': 'user',
+                'content': f'Cities: {cities}\nAllowed countries: {countries}',
+            },
+        ],
+        text_format=Results,
+    )
+    result = response.output_parsed
+    if result is None:
+        raise RuntimeError('No parsed result; handle refusals or incomplete responses.')
+
+    # Validate the model's country values against your authoritative input list.
+    allowed = set(countries)
+    for match in result.matches:
+        if match.country is not None and match.country not in allowed:
+            raise ValueError(f'Unexpected country: {match.country}')
+
+    matches = result.model_dump()['matches']
+    return {
+        country: sorted(
+            list(set(match['city'] for match in matches if match['country'] == country))
+        )
+        for country in countries
+    }
+
+
+def extract_attractions(itinerary_html: str, countries: list) -> dict:
+    class AttractionMatch(BaseModel):
+        attraction: str
+        country: str
+
+    class Results(BaseModel):
+        matches: list[AttractionMatch]
+
+    response = client.responses.parse(
+        model='gpt-6-luna',
+        input=[
+            {
+                'role': 'system',
+                'content': (
+                    'Extract the attractions listed in the given HTML itinerary. '
+                    'Match each attraction to a country from the supplied list only. '
+                    'Return one match for every input attraction, in order.'
+                ),
+            },
+            {
+                'role': 'user',
+                'content': f'HTML Itinerary: {itinerary_html}\nAllowed countries: {countries}',
+            },
+        ],
+        text_format=Results,
+    )
+    result = response.output_parsed
+    if result is None:
+        raise RuntimeError('No parsed result; handle refusals or incomplete responses.')
+
+    # Validate the model's country values against your authoritative input list.
+    allowed = set(countries)
+    for match in result.matches:
+        if match.country is not None and match.country not in allowed:
+            raise ValueError(f'Unexpected country: {match.country}')
+
+    matches = result.model_dump()['matches']
+    return {
+        country: sorted(
+            list(set(match['attraction'] for match in matches if match['country'] == country))
+        )
+        for country in countries
     }
 
 

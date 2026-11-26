@@ -26,7 +26,8 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "13 DAYS LAPLAND NORTHERN LIGHTS WITH LOFOTEN ISLANDS",
@@ -39,22 +40,57 @@
             "Norway",
             "Sweden"
         ],
-        "cities": [
-            "Helsinki",
-            "Tromso",
-            "Harstad",
-            "Lofoten Islands",
-            "Narvik",
-            "Kiruna",
-            "Rovaniemi"
-        ],
+        "cities": {
+            "Finland": [
+                "Helsinki",
+                "Rovaniemi"
+            ],
+            "Norway": [
+                "Harstad",
+                "Lofoten Islands",
+                "Narvik",
+                "Tromso"
+            ],
+            "Sweden": [
+                "Kiruna"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
             "2027-01",
             "2027-02",
             "2027-03"
-        ]
+        ],
+        "attractions": {
+            "Finland": [
+                "Government Palace",
+                "Helsinki Cathedral",
+                "Market Square",
+                "Santa Claus Village",
+                "Sederholm House",
+                "Senate Square",
+                "Sibelius Monument",
+                "Temppeliaukio Church",
+                "Uspenski Cathedral"
+            ],
+            "Norway": [
+                "Arctic Cathedral",
+                "Fjellheisen Cable Car",
+                "Gimsoy",
+                "Henningsvaer",
+                "Kvaloya Aurora Camp",
+                "Lofoten Islands",
+                "Nusfjord",
+                "Reine",
+                "Svolvaer",
+                "Tromso Cathedral"
+            ],
+            "Sweden": [
+                "Icehotel",
+                "Kiruna"
+            ]
+        }
     },
     {
         "name": "11 DAYS ARCTIC CIRCLE ADVENTURE WITH KING CRAB SAFARI",
@@ -66,22 +102,56 @@
             "Finland",
             "Norway"
         ],
-        "cities": [
-            "Helsinki",
-            "Ivalo",
-            "Kirkenes",
-            "Inari",
-            "Saariselka",
-            "Levi",
-            "Rovaniemi"
-        ],
+        "cities": {
+            "Finland": [
+                "Helsinki",
+                "Inari",
+                "Ivalo",
+                "Levi",
+                "Rovaniemi",
+                "Saariselka"
+            ],
+            "Norway": [
+                "Kirkenes"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
             "2027-01",
             "2027-02",
             "2027-03"
-        ]
+        ],
+        "attractions": {
+            "Finland": [
+                "Amethyst Pendolino Ride",
+                "Arctic Circle Crossing",
+                "Arktikum",
+                "Government Palace",
+                "Helsinki Cathedral",
+                "Husky Sled Safari",
+                "Lake Inari",
+                "Lampivaara Amethyst Mine",
+                "Lampivaara Hill",
+                "Levi Village",
+                "Market Square",
+                "Northern Lights Hunting Tour",
+                "Ranua Wildlife Park",
+                "Reindeer Farm",
+                "Reindeer Sleigh Ride",
+                "Santa Claus Village",
+                "Sederholm House",
+                "Senate Square",
+                "Sibelius Monument",
+                "Temppeliaukio Church",
+                "Uspenski Cathedral"
+            ],
+            "Norway": [
+                "King Crab Safari",
+                "Snowhotel 365",
+                "Snowmobile Sleigh Ride"
+            ]
+        }
     },
     {
         "name": "ALLURING AUSTRIA WITH BERLIN, PRAGUE AND BUDAPEST",
@@ -111,7 +181,8 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "12 DAYS CROATIA AND SLOVENIA DISCOVERY",
@@ -125,15 +196,23 @@
             "Bosnia And Herzegovina",
             "Montenegro"
         ],
-        "cities": [
-            "Zagreb",
-            "Ljubljana",
-            "Sarajevo",
-            "Mostar",
-            "Dubrovnik",
-            "Kotor",
-            "Split"
-        ],
+        "cities": {
+            "Croatia": [
+                "Dubrovnik",
+                "Split",
+                "Zagreb"
+            ],
+            "Slovenia": [
+                "Ljubljana"
+            ],
+            "Bosnia And Herzegovina": [
+                "Mostar",
+                "Sarajevo"
+            ],
+            "Montenegro": [
+                "Kotor"
+            ]
+        },
         "months": [
             "2026-12",
             "2027-01",
@@ -146,7 +225,53 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": {
+            "Croatia": [
+                "Ban Jelacic Square",
+                "Cathedral of St Domnius",
+                "Clock Tower",
+                "Croatian Parliament",
+                "Diocletian\u2019s Palace",
+                "Dubrovnik City Walls",
+                "Franciscan Monastery",
+                "Kamenita Vrata",
+                "Krka National Park",
+                "Lotrscak Tower",
+                "Mount Srdj",
+                "Onofrio Fountain",
+                "Orlando\u2019s Column",
+                "Rector\u2019s Palace",
+                "Roosevelt Square",
+                "Sponza Palace",
+                "St Blaise Church",
+                "St Mark\u2019s Church",
+                "Temple of Jupiter",
+                "Zagreb Cathedral"
+            ],
+            "Slovenia": [
+                "Bled Island",
+                "Church of St Nicholas",
+                "Church of the Assumption",
+                "Dragon Bridge",
+                "Lake Bled",
+                "Market Colonnade",
+                "Postojna Cave",
+                "Preseren Square",
+                "Triple Bridge"
+            ],
+            "Bosnia And Herzegovina": [
+                "Bascarsija",
+                "Blagaj Historical Village",
+                "Gazi Husrev-beg Mosque",
+                "Stari Most",
+                "Tunnel Museum"
+            ],
+            "Montenegro": [
+                "Bay of Kotor",
+                "Old Town"
+            ]
+        }
     },
     {
         "name": "10 DAYS CLASSIC TOUR OF TURKIYE",
@@ -157,18 +282,20 @@
         "countries": [
             "Turkiye"
         ],
-        "cities": [
-            "Istanbul",
-            "Canakkale",
-            "Bergama",
-            "Kusadasi",
-            "Selcuk",
-            "Pamukkale",
-            "Konya",
-            "Cappadocia",
-            "Ankara",
-            "Bolu"
-        ],
+        "cities": {
+            "Turkiye": [
+                "Ankara",
+                "Bergama",
+                "Bolu",
+                "Canakkale",
+                "Cappadocia",
+                "Istanbul",
+                "Konya",
+                "Kusadasi",
+                "Pamukkale",
+                "Selcuk"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
@@ -178,7 +305,41 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Turkiye": [
+                "Acropolis",
+                "Anatolian Civilisations Museum",
+                "Ancient city of Hierapolis",
+                "Ataturk Mausoleum",
+                "Belly and folk-dance performance",
+                "Blue Mosque",
+                "Bosphorus cruise",
+                "Caravanserai",
+                "Carpet factory and showroom",
+                "Emirgan Park",
+                "Ephesus",
+                "Gezipark",
+                "Golden Horn",
+                "Goreme Open Air Museum",
+                "Grand Bazaar",
+                "Hippodrome",
+                "Local jewellery shop",
+                "Modern mall",
+                "Pamukkale travertines",
+                "Pergamum",
+                "Pigeon Valley",
+                "Port of Canakkale",
+                "Spice Bazaar",
+                "Sultanahmet Square",
+                "Sunflower field in Tekirdag",
+                "Turkish leather showroom",
+                "Uchisar",
+                "Uchisar Castle",
+                "Underground City",
+                "Wooden Trojan Horse"
+            ]
+        }
     },
     {
         "name": "CLASSIC SPAIN AND PORTUGAL",
@@ -204,7 +365,8 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "10 DAYS ICELAND NORTHERN LIGHTS FANTASY",
@@ -215,22 +377,53 @@
         "countries": [
             "Iceland"
         ],
-        "cities": [
-            "Reykjavik",
-            "Borgarnes",
-            "Golden Circle",
-            "Selfoss",
-            "South Coast",
-            "Jokulsarlon",
-            "Reykjanes"
-        ],
+        "cities": {
+            "Iceland": [
+                "Borgarnes",
+                "Golden Circle",
+                "Jokulsarlon",
+                "Reykjanes",
+                "Reykjavik",
+                "Selfoss",
+                "South Coast"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
             "2027-01",
             "2027-02",
             "2027-03"
-        ]
+        ],
+        "attractions": {
+            "Iceland": [
+                "Akranes Folk Museum",
+                "Akranes Lighthouses",
+                "Barnafoss",
+                "Blue Lagoon",
+                "Deildartunguhver",
+                "Diamond Beach",
+                "Fridheimar Greenhouse",
+                "Geysir",
+                "Golden Circle",
+                "Gullfoss",
+                "Hallgrimskirkja",
+                "Harpa",
+                "Hofdi House",
+                "Hraunfossar",
+                "Hveragerdi",
+                "Icelandic Horse Stable",
+                "Jokulsarlon Glacier Lagoon",
+                "Parliament House",
+                "Perlan",
+                "Reynisdrangar",
+                "Reynisfjara Black Sand Beach",
+                "Seljalandsfoss",
+                "Skogafoss",
+                "Strokkur",
+                "Thingvellir National Park"
+            ]
+        }
     },
     {
         "name": "10 DAYS SWITZERLAND ALPINE TRAIN TOUR",
@@ -242,12 +435,15 @@
             "Switzerland",
             "Germany"
         ],
-        "cities": [
-            "Bern",
-            "Vevey",
-            "Zermatt",
-            "Lucerne"
-        ],
+        "cities": {
+            "Switzerland": [
+                "Bern",
+                "Lucerne",
+                "Vevey",
+                "Zermatt"
+            ],
+            "Germany": []
+        },
         "months": [
             "2027-05",
             "2027-06",
@@ -255,7 +451,28 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": {
+            "Switzerland": [
+                "Bern Bear Park",
+                "Chapel Bridge",
+                "Chaplin\u2019s World",
+                "Chillon Castle",
+                "Clock Tower",
+                "Glacier Express",
+                "Hinterdorf Street",
+                "Lavaux Vineyard Terraces",
+                "Lion Monument",
+                "Rhine Falls",
+                "Thermal Springs of Nendaz",
+                "Zermatt",
+                "Zug Swiss Farm"
+            ],
+            "Germany": [
+                "Cuckoo Clock Centre",
+                "Titisee"
+            ]
+        }
     },
     {
         "name": "10 DAYS NORWAY NORTHERN LIGHTS EXPLORER",
@@ -266,21 +483,43 @@
         "countries": [
             "Norway"
         ],
-        "cities": [
-            "Tromso",
-            " Senja",
-            "Bardu",
-            "Svolvaer",
-            "Lofoten Islands",
-            "Harstad"
-        ],
+        "cities": {
+            "Norway": [
+                " Senja",
+                "Bardu",
+                "Harstad",
+                "Lofoten Islands",
+                "Svolvaer",
+                "Tromso"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
             "2027-01",
             "2027-02",
             "2027-03"
-        ]
+        ],
+        "attractions": {
+            "Norway": [
+                "Arctic Cathedral",
+                "Fjellheisen Cable Car Ride",
+                "Gimsoy",
+                "Hamn i Senja",
+                "Henningsvaer",
+                "Lofoten Islands",
+                "Mt Storsteinen",
+                "Northern Lights Hunting Tour",
+                "Nusfjord",
+                "Polar Park",
+                "Reine",
+                "Sami Reindeer Farm",
+                "Sea Eagle Safari by Rib Boat",
+                "Senja",
+                "Trollfjord",
+                "Tromso Cathedral"
+            ]
+        }
     },
     {
         "name": "13 DAYS SPECTACULAR SCANDINAVIA AND FJORD CRUISE",
@@ -293,19 +532,25 @@
             "Norway",
             "Denmark"
         ],
-        "cities": [
-            "Stockholm",
-            "Karlstad",
-            "Oslo",
-            "Hamar",
-            "Andalsnes",
-            "Geiranger",
-            "Sognefjord",
-            "Bergen",
-            "Hardangerfjord",
-            "Al",
-            "Copenhagen"
-        ],
+        "cities": {
+            "Sweden": [
+                "Karlstad",
+                "Stockholm"
+            ],
+            "Norway": [
+                "Al",
+                "Andalsnes",
+                "Bergen",
+                "Geiranger",
+                "Hamar",
+                "Hardangerfjord",
+                "Oslo",
+                "Sognefjord"
+            ],
+            "Denmark": [
+                "Copenhagen"
+            ]
+        },
         "months": [
             "2027-04",
             "2027-05",
@@ -314,7 +559,12 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": {
+            "Sweden": [],
+            "Norway": [],
+            "Denmark": []
+        }
     },
     {
         "name": "BEST OF ITALY, SWITZERLAND AND PARIS",
@@ -342,7 +592,8 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "GEMS OF SWITZERLAND",
@@ -360,7 +611,8 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "12 DAYS HIGHLIGHTS OF ENGLAND AND SCOTLAND",
@@ -371,15 +623,17 @@
         "countries": [
             "United Kingdom"
         ],
-        "cities": [
-            "London",
-            "Edinburgh",
-            "Liverpool",
-            "Stratford-Upon-Avon",
-            "Bath",
-            "Cambridge",
-            "York"
-        ],
+        "cities": {
+            "United Kingdom": [
+                "Bath",
+                "Cambridge",
+                "Edinburgh",
+                "Liverpool",
+                "London",
+                "Stratford-Upon-Avon",
+                "York"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
@@ -389,7 +643,50 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "United Kingdom": [
+                "Anfield Stadium",
+                "Bath Abbey",
+                "Bicester Village",
+                "Big Ben",
+                "Bodleian Library",
+                "Bridge of Sighs",
+                "Buckingham Palace",
+                "Christ Church College",
+                "Edinburgh Castle",
+                "Houses of Parliament",
+                "Lake District National Park",
+                "Lake Windermere",
+                "Liverpool Cathedral",
+                "Liverpool Town Hall",
+                "London Bridge",
+                "New Town",
+                "No. 10 Downing Street",
+                "Old Town",
+                "Palace of Holyroodhouse",
+                "Petergate",
+                "Pulteney Bridge",
+                "Roman Baths",
+                "Royal Crescent",
+                "Royal Mile",
+                "Scottish Parliament",
+                "Shakespeare\u2019s Birthplace",
+                "St George\u2019s Hall",
+                "Stonegate",
+                "Stonehenge",
+                "The Circus",
+                "The Scotch Whisky Experience",
+                "The Shambles",
+                "Tower Bridge",
+                "Tower of London",
+                "Trafalgar Square",
+                "Trinity College",
+                "Windsor Castle",
+                "York Mansion House",
+                "York Minster"
+            ]
+        }
     },
     {
         "name": "10 DAYS WONDERS OF AUSTRIA AND SWITZERLAND",
@@ -402,20 +699,56 @@
             "Switzerland",
             "Liechtenstein"
         ],
-        "cities": [
-            "Vienna",
-            "Salzburg",
-            "Innsbruck",
-            "Lucerne",
-            "Bern",
-            "Schaffhausen"
-        ],
+        "cities": {
+            "Austria": [
+                "Innsbruck",
+                "Salzburg",
+                "Vienna"
+            ],
+            "Switzerland": [
+                "Bern",
+                "Lucerne",
+                "Schaffhausen"
+            ],
+            "Liechtenstein": []
+        },
         "months": [
             "2027-03",
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Austria": [
+                "Basilica St Michael",
+                "Burgtheater",
+                "Golden Roof",
+                "Hofburg",
+                "Mirabell Palace",
+                "Mozart Square",
+                "Opera House",
+                "Parliament Building",
+                "Residence Square",
+                "Ringstrasse",
+                "Schonbrunn Palace",
+                "Swarovski Crystal shop",
+                "Town Hall",
+                "Wolfgang Amadeus Mozart\u2019s Birthplace"
+            ],
+            "Switzerland": [
+                "Bahnhofplatz",
+                "Bern Bear Park",
+                "Chapel Bridge",
+                "Clock Tower",
+                "Jungfraujoch",
+                "Lion Monument",
+                "Mt Titlis",
+                "Rhine Falls"
+            ],
+            "Liechtenstein": [
+                "Vaduz Town Centre"
+            ]
+        }
     },
     {
         "name": "12 DAYS EXQUISITE ENGLAND, SCOTLAND AND IRELAND",
@@ -427,19 +760,23 @@
             "United Kingdom",
             "Ireland"
         ],
-        "cities": [
-            "Edinburgh",
-            "Belfast",
-            "Antrim",
-            "Dublin",
-            "Liverpool",
-            "Manchester",
-            "Stratford-Upon-Avon",
-            "Oxford",
-            "Bath",
-            "London",
-            "Wiltshire"
-        ],
+        "cities": {
+            "United Kingdom": [
+                "Antrim",
+                "Bath",
+                "Belfast",
+                "Edinburgh",
+                "Liverpool",
+                "London",
+                "Manchester",
+                "Oxford",
+                "Stratford-Upon-Avon",
+                "Wiltshire"
+            ],
+            "Ireland": [
+                "Dublin"
+            ]
+        },
         "months": [
             "2027-04",
             "2027-05",
@@ -448,7 +785,57 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": {
+            "United Kingdom": [
+                "10 Downing Street",
+                "Albert Memorial Clock",
+                "Bath Abbey",
+                "Belfast City Hall",
+                "Big Ben",
+                "Bodleian Library",
+                "Buckingham Palace",
+                "Carrick-a-Rede Rope Bridge",
+                "Carrickfergus Castle",
+                "Christ Church",
+                "Dunluce Castle",
+                "Edinburgh Castle",
+                "Etihad Stadium",
+                "Giant\u2019s Causeway",
+                "Houses of Parliament",
+                "Liverpool Cathedral",
+                "Liverpool Road Station",
+                "Liverpool Town Hall",
+                "London Bridge",
+                "Old Trafford Stadium",
+                "Palace of Holyroodhouse",
+                "Pulteney Bridge",
+                "Queen\u2019s University Belfast",
+                "Roman Baths",
+                "Royal Crescent",
+                "Royal Mile",
+                "Scottish Parliament",
+                "Shakespeare\u2019s Birthplace",
+                "St George\u2019s Hall",
+                "Stonehenge",
+                "Stormont Parliament Buildings",
+                "The Beatles Story",
+                "The Circus",
+                "Titanic Belfast",
+                "Tower Bridge",
+                "Tower of London",
+                "Trafalgar Square",
+                "University District",
+                "Windsor Castle"
+            ],
+            "Ireland": [
+                "Georgian squares",
+                "O\u2019Connell Street",
+                "St James\u2019s Gate Brewery",
+                "St Patrick\u2019s Cathedral",
+                "Trinity College Dublin"
+            ]
+        }
     },
     {
         "name": "11 DAYS HIGHLIGHTS OF GREECE",
@@ -459,13 +846,15 @@
         "countries": [
             "Greece"
         ],
-        "cities": [
-            "Athens",
-            "Delphi",
-            "Kalambaka",
-            "Mykonos",
-            "Santorini"
-        ],
+        "cities": {
+            "Greece": [
+                "Athens",
+                "Delphi",
+                "Kalambaka",
+                "Mykonos",
+                "Santorini"
+            ]
+        },
         "months": [
             "2027-03",
             "2027-04",
@@ -475,7 +864,33 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": {
+            "Greece": [
+                "Acropolis",
+                "Archaeological Sites of Delphi",
+                "Black Beach of Perissa",
+                "Church of Panayia Paraportiani",
+                "Fira Town",
+                "Greek parliament building",
+                "Kalafatis Beach",
+                "Little Venice",
+                "Meteora Monasteries",
+                "Monastery of Panagia Tourliani",
+                "Monument of the Unknown Soldier",
+                "Mykonos Town",
+                "Mykonos windmills",
+                "Oia Village",
+                "Panathenaic Stadium",
+                "Parthenon",
+                "Platis Gialos Beach",
+                "Prophet Elias",
+                "Red Beach",
+                "Sanctuary of Apollo",
+                "Syntagma Square",
+                "Temple of the Olympian Zeus"
+            ]
+        }
     },
     {
         "name": "12 DAYS WONDERS OF ICELAND",
@@ -486,28 +901,65 @@
         "countries": [
             "Iceland"
         ],
-        "cities": [
-            "Reykjavik",
-            "Golden Circle",
-            "Selfoss",
-            "South Coast",
-            "Jokulsarlon",
-            "East Iceland",
-            "Lake Myvatn",
-            "North Iceland",
-            "Husavik",
-            "Akureyri",
-            "Grundarfjordur",
-            "West Iceland",
-            "Blue Lagoon"
-        ],
+        "cities": {
+            "Iceland": [
+                "Akureyri",
+                "Blue Lagoon",
+                "East Iceland",
+                "Golden Circle",
+                "Grundarfjordur",
+                "Husavik",
+                "Jokulsarlon",
+                "Lake Myvatn",
+                "North Iceland",
+                "Reykjavik",
+                "Selfoss",
+                "South Coast",
+                "West Iceland"
+            ]
+        },
         "months": [
             "2027-05",
             "2027-06",
             "2027-07",
             "2027-08",
             "2027-09"
-        ]
+        ],
+        "attractions": {
+            "Iceland": [
+                "Akureyri Church",
+                "Barnafoss",
+                "Blue Lagoon",
+                "Deildartunguhver",
+                "Dettifoss",
+                "Diamond Beach",
+                "Dimmuborgir",
+                "Geysir",
+                "Godafoss",
+                "Golden Circle",
+                "Gullfoss",
+                "Hallgrimskirkja",
+                "Harpa",
+                "Hearts of Akureyri",
+                "Hofdi House",
+                "Hraunfossar",
+                "Hvalfjordur Tunnel",
+                "Hverarondor Hverir",
+                "Jokulsarlon Glacier Lagoon",
+                "Kirkjufell",
+                "Lake Myvatn",
+                "Parliament House",
+                "Perlan",
+                "Reynisdrangar",
+                "Reynisfjara black sand beach",
+                "Seljalandsfoss",
+                "Skaftafell",
+                "Skogafoss",
+                "Snaefellsnes Peninsula",
+                "Strokkur",
+                "Thingvellir National Park"
+            ]
+        }
     },
     {
         "name": "12 DAYS ITALY ROMANCE",
@@ -518,14 +970,16 @@
         "countries": [
             "Italy"
         ],
-        "cities": [
-            "Rome",
-            "Pisa",
-            "Florence",
-            "Venice",
-            "Verona",
-            "Milan"
-        ],
+        "cities": {
+            "Italy": [
+                "Florence",
+                "Milan",
+                "Pisa",
+                "Rome",
+                "Venice",
+                "Verona"
+            ]
+        },
         "months": [
             "2026-12",
             "2027-01",
@@ -534,7 +988,41 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Italy": [
+                "Baptistery of St John",
+                "Basilica di San Petronio",
+                "Basilica di Santo Stefano",
+                "Bridge of Sighs",
+                "Burano Island",
+                "Cathedral of Santa Maria del Fiore",
+                "Cinque Terre",
+                "Colosseum",
+                "Doge\u2019s Palace",
+                "Duomo",
+                "Ferrari Museum",
+                "Fountain of Neptune",
+                "Galleria Vittorio Emanuele II",
+                "Gates of Paradise",
+                "Juliet\u2019s Balcony",
+                "Leaning Tower of Pisa",
+                "Piazza Maggiore",
+                "Piazza Nettuno",
+                "Piazza della Signoria",
+                "Ponte Vecchio",
+                "Roman Arena",
+                "San Gimignano",
+                "Spanish Steps",
+                "St Mark\u2019s Basilica",
+                "St Mark\u2019s Campanile",
+                "St Mark\u2019s Square",
+                "The Mall",
+                "Trevi Fountain",
+                "Venetian Glass Factory",
+                "Via Condotti"
+            ]
+        }
     },
     {
         "name": "SWITZERLAND AND PARIS DISCOVERY",
@@ -552,7 +1040,8 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "BEST OF ITALY, SWITZERLAND, PARIS AND AMSTERDAM",
@@ -576,7 +1065,8 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "12 DAYS Egypt & Hurghada Coastal Bliss",
@@ -588,14 +1078,17 @@
             "Egypt",
             "Turkiye"
         ],
-        "cities": [
-            "Cairo",
-            "Aswan",
-            "Kom Ombo",
-            "Edfu",
-            "Luxor",
-            "Hurghada"
-        ],
+        "cities": {
+            "Egypt": [
+                "Aswan",
+                "Cairo",
+                "Edfu",
+                "Hurghada",
+                "Kom Ombo",
+                "Luxor"
+            ],
+            "Turkiye": []
+        },
         "months": [
             "2026-11",
             "2026-12",
@@ -604,7 +1097,36 @@
             "2027-03",
             "2027-04",
             "2027-05"
-        ]
+        ],
+        "attractions": {
+            "Egypt": [
+                "Abu-Simbel Temples",
+                "Colossi of Memnon",
+                "Elephantine Island",
+                "Esna Lock",
+                "Grand Egyptian Museum",
+                "Great Pyramids of Giza",
+                "Karnak Temple Complex",
+                "Khan al-Khalili",
+                "Mausoleum of the Aga Khan",
+                "Muhammad Ali Mosque",
+                "Nubian Village",
+                "Papyrus Institute",
+                "Perfume Factory",
+                "Red Sea",
+                "Saqqara Step Pyramid",
+                "Temple of Edfu",
+                "Temple of Hatshepsut",
+                "Temple of Kom Ombo",
+                "Temple of Luxor",
+                "Temples of Philae",
+                "The Citadel of Sultan Salah al-Din al-Ayyubi (Saladin)",
+                "The Great Sphinx",
+                "The Hanging Church",
+                "Valley of the Kings"
+            ],
+            "Turkiye": []
+        }
     },
     {
         "name": "11 DAYS THE HEART OF TURKIYE",
@@ -625,7 +1147,32 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Turkiye": [
+                "Ancient City of Hierapolis",
+                "Ataturk Mausoleum",
+                "Balat",
+                "Belly and Folk-dance performance",
+                "Blue Mosque",
+                "Caravanserai",
+                "Carpet Factory and Showroom",
+                "Cotton Castle",
+                "Ephesus",
+                "Goreme Open Air Museum",
+                "Grand Bazaar",
+                "Hippodrome",
+                "House of Virgin Mary",
+                "Local Jewellery Shop",
+                "Maiden's Tower",
+                "Pigeon Valley",
+                "Sirince",
+                "Turkish Leather Showroom",
+                "Uchisar",
+                "Uchisar Castle",
+                "Underground City"
+            ]
+        }
     },
     {
         "name": "10 DAYS BEAUTY OF HOLLAND",
@@ -636,19 +1183,50 @@
         "countries": [
             "Netherlands"
         ],
-        "cities": [
-            "Amsterdam",
-            "Aalsmeer",
-            "Roermond",
-            "Maastricht",
-            "Rotterdam",
-            "The Hague"
-        ],
+        "cities": {
+            "Netherlands": [
+                "Aalsmeer",
+                "Amsterdam",
+                "Maastricht",
+                "Roermond",
+                "Rotterdam",
+                "The Hague"
+            ]
+        },
         "months": [
             "2027-03",
             "2027-04",
             "2027-05"
-        ]
+        ],
+        "attractions": {
+            "Netherlands": [
+                "Canal Cruise",
+                "Church of Amsterdam",
+                "Cube Houses",
+                "Dam Square",
+                "De Haar Castle",
+                "De Verwoeste Stad",
+                "Diamond house",
+                "Erasmus Bridge",
+                "Euromast",
+                "Giethoorn",
+                "Heineken Experience",
+                "International Court of Justice",
+                "International Criminal Court",
+                "Keukenhof",
+                "Markthal Rotterdam",
+                "National Monument",
+                "Peace Palace Visitors Centre",
+                "Roermond Designer Outlet",
+                "Royal FloraHolland",
+                "Royal Palace",
+                "The Velvet Caves",
+                "Town Hall",
+                "Volendam",
+                "Windmills of Kinderdijk",
+                "Zaanse Schans"
+            ]
+        }
     },
     {
         "name": "12 DAYS CHRISTMAS MARKETS OF GERMANY, AUSTRIA AND SWITZERLAND",
@@ -666,7 +1244,55 @@
         "months": [
             "2026-11",
             "2026-12"
-        ]
+        ],
+        "attractions": {
+            "Germany": [
+                "Christmas Market (Munich)",
+                "Cuckoo Clock Centre",
+                "Historical Merchants\u2019 Hall",
+                "Marienplatz",
+                "Munster",
+                "Olympic Stadium",
+                "Olympic Tower",
+                "Viktualienmarkt"
+            ],
+            "Austria": [
+                "Christmas Market (Innsbruck)",
+                "Golden Roof",
+                "Hallstatt",
+                "Mozart Square",
+                "Residence Square",
+                "Residenz Palace",
+                "Salzburg Cathedral",
+                "Salzburg Christmas Market",
+                "Schloss Mirabell Palace",
+                "Wolfgang Amadeus Mozart\u2019s birthplace"
+            ],
+            "Switzerland": [
+                "Bern Bear Park",
+                "Chapel Bridge",
+                "Christmas Market (Lucerne)",
+                "Christmas Market (Zurich)",
+                "Clock Tower",
+                "Fraum\u00fcnster",
+                "Grossm\u00fcnster",
+                "Jungfrau",
+                "Jungfraujoch",
+                "Lion Monument",
+                "Mount Titlis",
+                "Rhine Falls"
+            ],
+            "France": [
+                "Astronomical Clock",
+                "Christmas Market (Strasbourg)",
+                "Fisherman\u2019s Wharf",
+                "Little Venice",
+                "Maison Kammerzell",
+                "Petite France",
+                "Strasbourg Cathedral",
+                "Tanners\u2019 quarter"
+            ]
+        }
     },
     {
         "name": "11 DAYS TREASURES OF AMSTERDAM, PARIS AND LONDON",
@@ -680,12 +1306,20 @@
             "Belgium",
             "France"
         ],
-        "cities": [
-            "Amsterdam",
-            "Brussels",
-            "Paris",
-            "London"
-        ],
+        "cities": {
+            "United Kingdom": [
+                "London"
+            ],
+            "Netherlands": [
+                "Amsterdam"
+            ],
+            "Belgium": [
+                "Brussels"
+            ],
+            "France": [
+                "Paris"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
@@ -695,7 +1329,53 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "United Kingdom": [
+                "Bath",
+                "Big Ben",
+                "Buckingham Palace",
+                "Houses of Parliament",
+                "London Bridge",
+                "No. 10 Downing Street",
+                "Stonehenge",
+                "Tower Bridge",
+                "Tower of London",
+                "Trafalgar Square",
+                "Warner Bros. Studio Tour London \u2013 The Making of Harry Potter",
+                "Windsor Castle"
+            ],
+            "Netherlands": [
+                "Amsterdam Canal Cruise",
+                "Cheese Farm",
+                "Church of Amsterdam",
+                "Dam Square",
+                "Diamond House",
+                "Keukenhof",
+                "National Monument",
+                "Royal Palace",
+                "Volendam",
+                "Wooden clog-making demonstration",
+                "Zaanse Schans"
+            ],
+            "Belgium": [
+                "Atomium",
+                "Grand Place",
+                "Manneken Pis",
+                "Market Square",
+                "Royal Palace of Laeken"
+            ],
+            "France": [
+                "Arc de Triomphe",
+                "Champs Elysees Boulevard",
+                "Eiffel Tower",
+                "Fragonard Perfumery",
+                "Louvre",
+                "Palace of Versailles",
+                "Place de la Concorde",
+                "River Seine"
+            ]
+        }
     },
     {
         "name": "10 DAYS GERMANY AND HOLLAND DELIGHTS",
@@ -707,15 +1387,19 @@
             "Germany",
             "Netherlands"
         ],
-        "cities": [
-            "Munich",
-            "Rothenburg Ob Der Tauber",
-            "Heidelberg",
-            "Cologne",
-            "Rotterdam",
-            "The Hague",
-            "Amsterdam"
-        ],
+        "cities": {
+            "Germany": [
+                "Cologne",
+                "Heidelberg",
+                "Munich",
+                "Rothenburg Ob Der Tauber"
+            ],
+            "Netherlands": [
+                "Amsterdam",
+                "Rotterdam",
+                "The Hague"
+            ]
+        },
         "months": [
             "2026-12",
             "2027-01",
@@ -723,7 +1407,41 @@
             "2027-03",
             "2027-04",
             "2027-05"
-        ]
+        ],
+        "attractions": {
+            "Germany": [
+                "Cologne Cathedral",
+                "Heidelberg Castle",
+                "Marcus Tower",
+                "Marienplatz",
+                "Market Square",
+                "Neuschwanstein Castle",
+                "Olympic Stadium",
+                "Olympic Tower",
+                "Romantic Road",
+                "Rothenburg ob der Tauber",
+                "St Jame's church",
+                "Viktualienmarkt",
+                "White Tower"
+            ],
+            "Netherlands": [
+                "Amsterdam Canal Cruise",
+                "Church of Amsterdam",
+                "Cube Houses",
+                "Dam Square",
+                "De Verwoeste Stad",
+                "Diamond house",
+                "Erasmus Bridge",
+                "Euromast",
+                "International Court of Justice",
+                "International Criminal Court",
+                "Markthal Rotterdam",
+                "National Monument",
+                "Roermond designer outlet",
+                "Royal Palace",
+                "Town Hall"
+            ]
+        }
     },
     {
         "name": "10 DAYS SWITZERLAND SUPERSAVER",
@@ -744,7 +1462,28 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Switzerland": [
+                "Bern Bear Pit",
+                "Chapel Bridge",
+                "Clock Tower",
+                "FoxTown Factory Stores",
+                "Grimentz",
+                "Jungfraujoch \u2013 Top of Europe",
+                "Lake Lucerne",
+                "Lion Monument",
+                "Locarno Old Town",
+                "Luzern-Interlaken Express",
+                "Mt Titlis",
+                "Piazza Grande",
+                "St Gallen Cathedral",
+                "The Lindt Home of Chocolate",
+                "The Olympic Museum",
+                "Thermal springs"
+            ],
+            "Germany": []
+        }
     },
     {
         "name": "BEST OF ITALY, SWITZERLAND AND PARIS SUPERSAVER",
@@ -764,7 +1503,8 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "10 DAYS DISCOVER THE CAUCASUS",
@@ -787,7 +1527,51 @@
             "2027-08",
             "2027-09",
             "2027-10"
-        ]
+        ],
+        "attractions": {
+            "Azerbaijan": [
+                "Ateshgah",
+                "Bibi Heybat Mosque",
+                "Flame Towers",
+                "Gobustan National Park",
+                "Heydar Aliyev Center",
+                "Juma Mosque",
+                "Maiden Tower",
+                "Martyrs\u2019 Lane",
+                "Miniature Book Museum",
+                "Mud volcanoes",
+                "Old Town",
+                "Petroglyph Museum",
+                "Sheki Khan\u2019s Palace",
+                "Shirvanshah\u2019s Palace",
+                "Upland Park",
+                "Yanar Dag"
+            ],
+            "Armenia": [
+                "Areni Cave",
+                "Dilijan",
+                "Etchmiadzin Cathedral",
+                "Haghpat Monastery",
+                "Khor Virap",
+                "Lake Sevan",
+                "Monastery of Geghard",
+                "Noravank Monastery",
+                "Sevanavank Monastery",
+                "Temple of Garni",
+                "Zvartnots Cathedral"
+            ],
+            "Georgia": [
+                "Bridge of Peace",
+                "Jvari Monastery",
+                "Metekhi Church",
+                "Mtskheta",
+                "Narikala Fortress",
+                "Sharden Street",
+                "Sighnaghi",
+                "Statue of King Vakhtang Gorgasali",
+                "Svetitskhoveli Cathedral"
+            ]
+        }
     },
     {
         "name": "13 DAYS CLASSIC SPAIN AND PORTUGAL",
@@ -799,23 +1583,61 @@
             "Spain",
             "Portugal"
         ],
-        "cities": [
-            "Barcelona",
-            "Valencia",
-            "Granada",
-            "Cordoba",
-            "Seville",
-            "Lisbon",
-            "Salamanca",
-            "Segovia",
-            "Madrid",
-            "Fatima",
-            "Zaragoza",
-            "Porto"
-        ],
+        "cities": {
+            "Spain": [
+                "Barcelona",
+                "Cordoba",
+                "Granada",
+                "Madrid",
+                "Salamanca",
+                "Segovia",
+                "Seville",
+                "Valencia",
+                "Zaragoza"
+            ],
+            "Portugal": [
+                "Fatima",
+                "Lisbon",
+                "Porto"
+            ]
+        },
         "months": [
             "2026-12"
-        ]
+        ],
+        "attractions": {
+            "Spain": [
+                "Alhambra",
+                "Basilica of El Pilar",
+                "Calleja de las Flores",
+                "Casa Batllo",
+                "Casa Mila",
+                "Central Market",
+                "Cibeles Fountain",
+                "Generalife Gardens",
+                "La Lonja",
+                "Las Ramblas",
+                "Mezquita",
+                "Patio de los Naranjos",
+                "Plaza Catalunya",
+                "Plaza Mayor",
+                "Plaza del Pilar",
+                "Puerto del Sol",
+                "Royal Bullring",
+                "Royal Palace",
+                "Sagrada Familia",
+                "Salamanca Cathedral",
+                "Troglodyte Quarter",
+                "University of Salamanca",
+                "Valencia Cathedral"
+            ],
+            "Portugal": [
+                "Belem Tower",
+                "Discovery Monument",
+                "Monastery of Jeronimos",
+                "Rossio Square",
+                "Shrine of Fatima"
+            ]
+        }
     },
     {
         "name": "11 DAYS EASTERN EUROPE SUPERSAVER",
@@ -833,7 +1655,51 @@
         "cities": null,
         "months": [
             "2026-12"
-        ]
+        ],
+        "attractions": {
+            "Austria": [
+                "Burgtheater",
+                "Hofburg",
+                "Opera House",
+                "Parliament Building",
+                "Ringstrasse",
+                "Schonbrunn Palace",
+                "Town Hall"
+            ],
+            "Slovakia": [
+                "Old Town Hall",
+                "Primatial Square",
+                "St Martin's Cathedral"
+            ],
+            "Hungary": [
+                "Castle District",
+                "Fisherman\u2019s Bastion",
+                "Gellert Hill",
+                "Heroes\u2019 Square",
+                "Lake Heviz"
+            ],
+            "Germany": [
+                "Ingolstadt Village",
+                "Kaiserburg",
+                "Marienplatz",
+                "Old Town",
+                "Olympic Stadium",
+                "Olympic Tower",
+                "Schoner Brunnen",
+                "St Sebald Church",
+                "Viktualienmarkt"
+            ],
+            "Czech Republic": [
+                "Astronomical Clock",
+                "Charles Bridge",
+                "Golden Lane",
+                "Pilsner Brewery",
+                "Prague Castle",
+                "St Vitus Cathedral",
+                "State Castle of Cesky Krumlov",
+                "Wenceslas Square"
+            ]
+        }
     },
     {
         "name": "13 DAYS CROATIA AND SLOVENIA DISCOVERY",
@@ -847,25 +1713,80 @@
             "Bosnia And Herzegovina",
             "Montenegro"
         ],
-        "cities": [
-            "Zagreb",
-            "Ljubljana",
-            "Lake Bled",
-            "Opatija",
-            "Zadar",
-            "Sarajevo",
-            "Mostar",
-            "Kotor",
-            "Dubrovnik",
-            "Split"
-        ],
+        "cities": {
+            "Croatia": [
+                "Dubrovnik",
+                "Opatija",
+                "Split",
+                "Zadar",
+                "Zagreb"
+            ],
+            "Slovenia": [
+                "Lake Bled",
+                "Ljubljana"
+            ],
+            "Bosnia And Herzegovina": [
+                "Mostar",
+                "Sarajevo"
+            ],
+            "Montenegro": [
+                "Kotor"
+            ]
+        },
         "months": [
             "2026-11",
             "2026-12",
             "2027-01",
             "2027-02",
             "2027-03"
-        ]
+        ],
+        "attractions": {
+            "Croatia": [
+                "Ban Jelacic Square",
+                "Cathedral of St Domnius",
+                "City walls",
+                "Clock Tower",
+                "Croatian Parliament",
+                "Diocletian\u2019s Palace",
+                "Franciscan Monastery",
+                "Kamenita Vrata",
+                "Krka National Park",
+                "Lotrscak Tower",
+                "Mali Ston",
+                "Mount Srdj",
+                "Onofrio Fountain",
+                "Orlando\u2019s Column",
+                "Rector\u2019s Palace",
+                "Roosevelt Square",
+                "Sponza Palace",
+                "St Blaise Church",
+                "St Mark\u2019s Church",
+                "Temple of Jupiter",
+                "Zagreb Cathedral"
+            ],
+            "Slovenia": [
+                "Bled Island",
+                "Church of St Nicholas",
+                "Church of the Assumption",
+                "Dragon Bridge",
+                "Lake Bled",
+                "Market Colonnade",
+                "Postojna Cave",
+                "Preseren Square",
+                "Triple Bridge"
+            ],
+            "Bosnia And Herzegovina": [
+                "Bascarsija",
+                "Blagaj Historical Village",
+                "Gazi Husrev-beg Mosque",
+                "Stari Most",
+                "Tunnel Museum"
+            ],
+            "Montenegro": [
+                "Bay of Kotor",
+                "Old Town"
+            ]
+        }
     },
     {
         "name": "SWITZERLAND AND PARIS SUPERSAVER",
@@ -882,7 +1803,8 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": null
     },
     {
         "name": "10 DAYS GERMANY, FRANCE & SWITZERLAND SUPERSAVER",
@@ -904,7 +1826,39 @@
             "2027-04",
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Germany": [
+                "City Hall",
+                "Cologne Cathedral",
+                "Cuckoo Clock Centre",
+                "European Financial Centre",
+                "Heidelberg Castle",
+                "Imperial Cathedral",
+                "St Paul's Church"
+            ],
+            "France": [
+                "Astronomical Clock",
+                "Colmar",
+                "Fisherman\u2019s Wharf",
+                "Little Venice",
+                "Maison Kammerzell",
+                "Petite France",
+                "Place Gutenberg",
+                "Strasbourg Cathedral",
+                "Tanners\u2019 quarter"
+            ],
+            "Switzerland": [
+                "Bern Bear Park",
+                "Cailler-Nestle Chocolate Factory",
+                "Chapel Bridge",
+                "Clock Tower",
+                "Hinterdorf Street",
+                "Lion Monument",
+                "Matterhorn",
+                "Zermatt"
+            ]
+        }
     },
     {
         "name": "10 DAYS ROMANTIC HOLLAND TULIP RIVER CRUISE AND BELGIUM",
@@ -919,7 +1873,11 @@
         "cities": null,
         "months": [
             "2027-05"
-        ]
+        ],
+        "attractions": {
+            "Netherlands": [],
+            "Belgium": []
+        }
     },
     {
         "name": "12 DAYS Wintry Turkiye",
@@ -930,19 +1888,48 @@
         "countries": [
             "Turkiye"
         ],
-        "cities": [
-            "Istanbul",
-            "Bursa",
-            "Selcuk",
-            "Kusadasi",
-            "Pamukkale",
-            "Konya",
-            "Cappadocia",
-            "Bolu"
-        ],
+        "cities": {
+            "Turkiye": [
+                "Bolu",
+                "Bursa",
+                "Cappadocia",
+                "Istanbul",
+                "Konya",
+                "Kusadasi",
+                "Pamukkale",
+                "Selcuk"
+            ]
+        },
         "months": [
             "2027-02"
-        ]
+        ],
+        "attractions": {
+            "Turkiye": [
+                "Ancient City of Hierapolis",
+                "Beginner Ski Clinic with Basic Rental of Ski Equipment",
+                "Blue Mosque",
+                "Bursa Teleferik",
+                "Carpet Factory and Showroom",
+                "Ephesus",
+                "Galata Tower",
+                "Goreme Open Air Museum",
+                "Grand Bazaar",
+                "Hippodrome",
+                "Istiklal Caddesi",
+                "Local Jewellery Shop",
+                "Pamukkale Travertines",
+                "Pigeon Valley",
+                "Sirince",
+                "Taksim Square",
+                "Turkish Leather Showroom",
+                "Twirling Dervishes Ceremony",
+                "Uchisar",
+                "Uchisar Castle",
+                "Uludag Mountains",
+                "Uludag Ski Center",
+                "Underground City"
+            ]
+        }
     },
     {
         "name": "11 DAYS TurkIye Supersaver",
@@ -953,20 +1940,25 @@
         "countries": [
             "Turkiye"
         ],
-        "cities": [
-            "Istanbul",
-            "Kusadasi",
-            "Selcuk",
-            "Pamukkale",
-            "Konya",
-            "Cappadocia",
-            "Eskisehir"
-        ],
+        "cities": {
+            "Turkiye": [
+                "Cappadocia",
+                "Eskisehir",
+                "Istanbul",
+                "Konya",
+                "Kusadasi",
+                "Pamukkale",
+                "Selcuk"
+            ]
+        },
         "months": [
             "2027-03",
             "2027-04",
             "2027-05"
-        ]
+        ],
+        "attractions": {
+            "Turkiye": []
+        }
     },
     {
         "name": "12 DAYS Turkiye Almond Fest & Love in Bloom",
@@ -977,18 +1969,46 @@
         "countries": [
             "Turkiye"
         ],
-        "cities": [
-            "Istanbul",
-            "Dalaman",
-            "Datca",
-            "Akyaka",
-            "Pamukkale",
-            "Cappadocia",
-            "Bolu"
-        ],
+        "cities": {
+            "Turkiye": [
+                "Akyaka",
+                "Bolu",
+                "Cappadocia",
+                "Dalaman",
+                "Datca",
+                "Istanbul",
+                "Pamukkale"
+            ]
+        },
         "months": [
             "2027-02"
-        ]
+        ],
+        "attractions": {
+            "Turkiye": [
+                "Ancient City of Hierapolis",
+                "Ancient Greek Ruins at Knidos",
+                "Azmak River",
+                "Basilica Cistern",
+                "Bosphorus",
+                "Camondo Stairs",
+                "Datca Almond Blossom Festival",
+                "Datca Peninsula",
+                "Galata Tower",
+                "Galataport",
+                "Goreme Open Air Museum",
+                "Kadikoy",
+                "Lake Abant",
+                "Pamukkale Travertines",
+                "Pigeon Valley",
+                "Sevgi Yolu (Love Path)",
+                "Suleymaniye Mosque",
+                "Traditional Ottoman-Style Wooden Houses",
+                "Uchisar",
+                "Uchisar Castle",
+                "Umbrella Street",
+                "Underground City"
+            ]
+        }
     },
     {
         "name": "11 DAYS FAROE ISLANDS & NORDIC JEWELS",
@@ -1004,7 +2024,50 @@
         "cities": null,
         "months": [
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Faroe Islands": [
+                "Atlantic puffins",
+                "B\u00f8ur",
+                "Drangarnir",
+                "Gasadalur",
+                "Gjogv",
+                "Mulafossur Waterfall",
+                "Mykines",
+                "Reyn",
+                "Saksun",
+                "Sorvagur",
+                "The Giant and the Witch sea stacks",
+                "Tindholmur",
+                "Tinganes",
+                "Tjornuvik",
+                "Torshavn Harbour",
+                "Vagar Island",
+                "Vestmanna Sea Cliffs"
+            ],
+            "Denmark": [
+                "Amalienborg Palace",
+                "Gefion Fountain",
+                "Little Mermaid",
+                "Nyhavn",
+                "Rosenborg Palace"
+            ],
+            "Norway": [
+                "Akershus Fortress",
+                "Borgund Stave Church",
+                "Bryggen",
+                "Fish Market",
+                "Flam",
+                "Flam Railway",
+                "Hakon\u2019s Hall",
+                "Karl Johans gate",
+                "Oslo City Hall",
+                "Oslo Fjord",
+                "Sognefjord",
+                "Tvindefossen Waterfall",
+                "Vigeland Sculpture Park"
+            ]
+        }
     },
     {
         "name": "12 DAYS SOUTHERN ITALY, SICILY AND MALTA",
@@ -1020,7 +2083,33 @@
         "months": [
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Italy": [
+                "Alberobello",
+                "Archaeological Park of Neapolis",
+                "Conca d\u2019Oro",
+                "Corso Umberto 1",
+                "Duomo di Amalfi",
+                "Greek Temple",
+                "Greek Theatre",
+                "Norman Cathedral",
+                "Palermo Cathedral",
+                "Pompeii",
+                "Roman Amphitheater",
+                "Sassi of Matera",
+                "Trulli",
+                "Villa Romana del Casale"
+            ],
+            "Malta": [
+                "Blue Grotto",
+                "Grand Harbor",
+                "Mdina",
+                "St John\u2019s Co-Cathedral",
+                "St Paul\u2019s Cathedral",
+                "Upper Barrakka Gardens"
+            ]
+        }
     },
     {
         "name": "11 DAYS Charms of Baltic States with Istanbul",
@@ -1034,17 +2123,64 @@
             "Estonia",
             "Turkiye"
         ],
-        "cities": [
-            "Vilnius",
-            "Riga",
-            "Tallinn",
-            "Istanbul",
-            "Sigulda"
-        ],
+        "cities": {
+            "Lithuania": [
+                "Vilnius"
+            ],
+            "Latvia": [
+                "Riga",
+                "Sigulda"
+            ],
+            "Estonia": [
+                "Tallinn"
+            ],
+            "Turkiye": [
+                "Istanbul"
+            ]
+        },
         "months": [
             "2027-05",
             "2027-06"
-        ]
+        ],
+        "attractions": {
+            "Lithuania": [
+                "Cathedral Square",
+                "Gates of Dawn",
+                "Gediminas Castle",
+                "Halle Market",
+                "Hill of Crosses",
+                "St. Anne's Church",
+                "Trakai Island Castle",
+                "Vilnius Cathedral",
+                "Vilnius Old Town"
+            ],
+            "Latvia": [
+                "Dome Cathedral",
+                "Gutman's Cave",
+                "House of the Black Heads",
+                "Riga Central Market",
+                "Riga Old Town",
+                "Rundale Palace",
+                "Sigulda New Palace",
+                "St. Peter's Church",
+                "Three Brothers",
+                "Turaida Castle and Museum"
+            ],
+            "Estonia": [
+                "Alexander Nevsky Cathedral",
+                "St. Nicholas' Church",
+                "Tallinn's Old Town",
+                "Toompea Castle",
+                "Town Hall Pharmacy",
+                "Town Hall Square",
+                "Viru Gate"
+            ],
+            "Turkiye": [
+                "Balat",
+                "Blue Mosque",
+                "Grand Bazaar"
+            ]
+        }
     },
     {
         "name": "14 DAYS EXPLORING THE BLACK SEA CROSSROADS OF TURKIYE & GEORGIA",
@@ -1056,19 +2192,72 @@
             "Turkiye",
             "Georgia"
         ],
-        "cities": [
-            "Istanbul",
-            "Amasya",
-            "Samsun",
-            "Ordu",
-            "Trabzon",
-            "Rize",
-            "Batumi",
-            "Tbilisi"
-        ],
+        "cities": {
+            "Turkiye": [
+                "Amasya",
+                "Istanbul",
+                "Ordu",
+                "Rize",
+                "Samsun",
+                "Trabzon"
+            ],
+            "Georgia": [
+                "Batumi",
+                "Tbilisi"
+            ]
+        },
         "months": [
             "2027-05"
-        ]
+        ],
+        "attractions": {
+            "Turkiye": [
+                "Alt\u0131ndere Valley National Park",
+                "Amasya Harsena Castle",
+                "Ataturk Mansion",
+                "Ayder Plateau",
+                "Band\u0131rma Ferry Museum Area",
+                "Boztepe Hill",
+                "Boztepe Teleferik",
+                "Camondo Stairs",
+                "Chocolate Boutique",
+                "Coin-Making Experience",
+                "F\u0131rt\u0131na Valley",
+                "Galata Port",
+                "Galata Tower",
+                "Hagia Sophia Mosque",
+                "Karakoy",
+                "Kom Caf\u00e9",
+                "Local Market",
+                "Local Tea Factory",
+                "Ottoman-Era Stone Bridges",
+                "Rize Zip Line & ATV Safari",
+                "Rock Church",
+                "Rock Tombs of the Pontic Kings",
+                "Sultan Bayezid II Mosque",
+                "Sumela Monastery",
+                "Tea Plantation",
+                "Uzungol",
+                "Yesil\u0131rmak River",
+                "Zil Castle"
+            ],
+            "Georgia": [
+                "Ali and Nino Statue",
+                "Batumi Archaeological Museum",
+                "Batumi Beach",
+                "Batumi Boulevard",
+                "Bridge of Peace",
+                "Chronicles of Georgia",
+                "Clock Tower",
+                "Gergeti Trinity Church",
+                "Holy Trinity Cathedral",
+                "Mother of Georgia",
+                "Narikala Fortress",
+                "Old Town",
+                "Rike Park",
+                "Sky Tower",
+                "Tbilisi Old Town"
+            ]
+        }
     },
     {
         "name": "11 DAYS EXPLORING THE BLACK SEA CROSSROADS OF TURKIYE",
@@ -1079,16 +2268,48 @@
         "countries": [
             "Turkiye"
         ],
-        "cities": [
-            "Istanbul",
-            "Amasya",
-            "Samsun",
-            "Ordu",
-            "Trabzon",
-            "Rize"
-        ],
+        "cities": {
+            "Turkiye": [
+                "Amasya",
+                "Istanbul",
+                "Ordu",
+                "Rize",
+                "Samsun",
+                "Trabzon"
+            ]
+        },
         "months": [
             "2027-05"
-        ]
+        ],
+        "attractions": {
+            "Turkiye": [
+                "Alt\u0131ndere Valley National Park",
+                "Amasya Harsena Castle",
+                "Ataturk Mansion",
+                "Ayder Plateau",
+                "Band\u0131rma Ferry Museum area",
+                "Bosphorus cruise",
+                "Boztepe Hill",
+                "Boztepe Teleferik",
+                "Camondo Stairs",
+                "F\u0131rt\u0131na Valley",
+                "Galata Port",
+                "Galata Tower",
+                "Hagia Sophia Mosque",
+                "Kadikoy tour",
+                "Karakoy",
+                "Local Market",
+                "Local Tea Factory",
+                "Ottoman-era Stone Bridges",
+                "Rock Tombs of the Pontic Kings",
+                "Sultan Bayezid II Mosque",
+                "Sumela Monastery and its Rock Church",
+                "Tea Plantation",
+                "Uzungol",
+                "Uzungol Mosque",
+                "Yesil\u0131rmak River",
+                "Zil Castle"
+            ]
+        }
     }
 ]

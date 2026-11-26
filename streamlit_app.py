@@ -52,10 +52,11 @@ df_filtered = df[
 st.set_page_config(layout='wide')
 st.title('Destination Research Dashboard')
 st.write("Data obtained from Chan Brothers' Package Tours to Europe accessed 23 Nov 2026")
-col1, col2 = st.columns(2)
+grid = st.grid(2)
 
 # Generate color-coded choropleth map
-with col1:
+with grid.cell():
+    st.header('Choropleth')
     choropleth_countries = [
         c
         for c in countries_selected
@@ -96,7 +97,8 @@ with col1:
     st.plotly_chart(fig)
 
 # Create line chart of tours / average starting price / average starting price per night vs month
-with col2:
+with grid.cell():
+    st.header('Line Plot vs Months')
     x_axis = sorted(
         [m for m in months_selected if m in itertools.chain.from_iterable(df_filtered['months'])]
     )
@@ -114,6 +116,52 @@ with col2:
     months = pd.DataFrame(months_dict)
     st.space('medium')
     st.line_chart(months, x='Month', y=line_chart_option)
+
+# Generate list of cities listed for each country
+with grid.cell():
+    st.header('Cities')
+    cities = {
+        country: sorted(
+            list(
+                set(
+                    itertools.chain.from_iterable(
+                        cities[country]
+                        for cities in df_filtered[
+                            df_filtered[country] & ~df_filtered['cities'].isna()
+                        ]['cities']
+                    )
+                )
+            )
+        )
+        for country in choropleth_countries
+    }
+    for country in sorted(cities):
+        if cities[country]:
+            st.subheader(country)
+            st.write(', '.join(cities[country]))
+
+# Generate list of attractions listed for each country
+with grid.cell():
+    st.header('Attractions')
+    attractions = {
+        country: sorted(
+            list(
+                set(
+                    itertools.chain.from_iterable(
+                        attractions[country]
+                        for attractions in df_filtered[
+                            df_filtered[country] & ~df_filtered['attractions'].isna()
+                        ]['attractions']
+                    )
+                )
+            )
+        )
+        for country in choropleth_countries
+    }
+    for country in sorted(attractions):
+        if attractions[country]:
+            st.subheader(country)
+            st.write(', '.join(attractions[country]))
 
 with st.bottom:
     st.write(
